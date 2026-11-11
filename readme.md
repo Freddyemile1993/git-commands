@@ -18,3 +18,6 @@ permet de transferer(pousser) un fichier(code) vers une solution logiciel(GITHUB
 ## git status
 permet de lister les modifications a traiter
 permet de verifier le statut du repertoire
+
+## git log
+permet de lister les modifications en localc
