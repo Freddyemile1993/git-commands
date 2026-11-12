@@ -33,3 +33,7 @@ permet non seulement de creer une branche secondaire, mais aussi de se deplacer 
 
 ## git pull
 permet d'enregistrer en local les modifications qui ont ete fait directement en ligne sur github
+
+## git rebase
+- permet de transferer les modifications effectuées sur la branche mere vers une branche secondaire
+- ces modifications sont enregistrées en dessous des modifications de la branche principale
