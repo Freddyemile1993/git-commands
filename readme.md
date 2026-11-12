@@ -30,3 +30,6 @@ permet de se deplacer vers la branche secondaire
 
 ## git checkout -b feature/
 permet non seulement de creer une branche secondaire, mais aussi de se deplacer vers celle-ci
+
+## git pull
+permet d'enregistrer en local les modifications qui ont ete fait directement en ligne sur github
