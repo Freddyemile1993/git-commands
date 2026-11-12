@@ -37,3 +37,6 @@ permet d'enregistrer en local les modifications qui ont ete fait directement en 
 ## git rebase
 - permet de transferer les modifications effectuées sur la branche mere vers une branche secondaire
 - ces modifications sont enregistrées en dessous des modifications de la branche principale
+
+## git merge
+permet de transferer les modications effectuées sur une branche secondaire vers la branche principale
