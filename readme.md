@@ -21,3 +21,12 @@ permet de transferer(pousser) un fichier(code) vers une solution logiciel(GITHUB
 
 ## git log
 permet de lister les modifications en local
+
+## git branch feature/
+permet de creer une branche secondaire
+
+## git checkout feature/
+permet de se deplacer vers la branche secondaire
+
+## git checkout -b feature/
+permet non seulement de creer une branche secondaire, mais aussi de se deplacer vers celle-ci
